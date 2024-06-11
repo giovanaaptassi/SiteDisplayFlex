@@ -1,0 +1,3 @@
+- div que ocupa o espaço
+- justify-content: space-between (imagens ocupam até os cantos), flex-wrap: wrap
+- imagens ter 33% de largura
